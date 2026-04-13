@@ -55,11 +55,11 @@ Build a web app called the Ateneo Alumni Document Request System using Meteor JS
 
 ## Screenshots
 
-### - Alumni Login Page
-![](image1-1.png)
+### Alumni Login Page
+![Login Page](./screenshot/image1.png)
 
-### - Alumni Dashboard
-![](image2.png)
+### Alumni Dashboard
+![Alumni Dashboard](./screenshot/image2.png)
 
 ### - Alumni Profile
 ![alt text](image3.png)
