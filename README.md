@@ -62,33 +62,39 @@ Build a web app called the Ateneo Alumni Document Request System using Meteor JS
 ![Alumni Dashboard](./screenshot/image2.png)
 
 ### - Alumni Profile
-![alt text](image3.png)
+![alt text](./screenshot/image3.png)
 
 ### - Document Request Selection Page
-![alt text](image4.png)
+![alt text](./screenshot/image4.png)
 
 ### Appointment Selection Page
-![alt text](image5.png)
+![alt text](./screenshot/image5.png)
 
 ### Request Review Page
-![alt text](image6.png)
+![alt text](./screenshot/image6.png)
 
 ### Order Tracker Page
-![alt text](image7.png)
+![alt text](./screenshot/image7.png)
 
 ### Staff Login Page
-![alt text](image8.png)
+![alt text](./screenshot/image8.png)
 
 ### Staff Dashboard
-![alt text](image9.png)
+![alt text](./screenshot/image9.png)
 
 ### Status Filter Page
-![alt text](image10.png)
+![alt text](./screenshot/image10.png)
 
 ### 
-![alt text](image11.png)
-![alt text](image12.png)
-![alt text](image13.png)
+![alt text](./screenshot/image11.png)
+![alt text](./screenshot/image12.png)
+![alt text](./screenshot/image13.png)
+
 
 ### Admin Profile
-![alt text](image14.png)
+![alt text](./screenshot/image14.png)
+
+
+
+
+
