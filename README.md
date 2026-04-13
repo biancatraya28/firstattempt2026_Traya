@@ -29,11 +29,11 @@ To open this project you need to install and set up Meteor JS:
 
 4. Open the project folder
     ```bash
-    cd ateneo-alumni-document-request-system
+    cd New project
 
 5. Install Project Dependencies
     ```bash
-    cd ateneo-alumni-document-request-system
+    cd New project
 
 6. Run the application
     ```bash
