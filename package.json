@@ -1,0 +1,11 @@
+{
+  "name": "ateneo-alumni-document-request-system",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.23.5",
+    "meteor-node-stubs": "^1.2.12"
+  }
+}
