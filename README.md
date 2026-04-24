@@ -129,6 +129,42 @@ Explain what each step does and show exact code.
 
 
 ## Screenshots
-![Login Screen](/screenshots/image1.png)
-![Alumni Dashboard](./screenshots/alumni-dashboard.png)
-![Staff Dashboard](./screenshots/staff-dashboard.png)
+
+### Alumni Login Page
+![Login Page](./screenshot/image1.png)
+
+### Alumni Dashboard
+![Alumni Dashboard](./screenshot/image2.png)
+
+### - Alumni Profile
+![alt text](./screenshot/image3.png)
+
+### - Document Request Selection Page
+![alt text](./screenshot/image4.png)
+
+### Appointment Selection Page
+![alt text](./screenshot/image5.png)
+
+### Request Review Page
+![alt text](./screenshot/image6.png)
+
+### Order Tracker Page
+![alt text](./screenshot/image7.png)
+
+### Staff Login Page
+![alt text](./screenshot/image8.png)
+
+### Staff Dashboard
+![alt text](./screenshot/image9.png)
+
+### Status Filter Page
+![alt text](./screenshot/image10.png)
+
+### 
+![alt text](./screenshot/image11.png)
+![alt text](./screenshot/image12.png)
+![alt text](./screenshot/image13.png)
+
+
+### Admin Profile
+![alt text](./screenshot/image14.png)
