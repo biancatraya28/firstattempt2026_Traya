@@ -56,7 +56,7 @@ This project was converted into a Progressive Web App with the following feature
 - Installability through supported browsers
 - App icons for home screen / installed app mode
 
-### Important PWA Files
+### Important PWA Files — feature/pwa-ready
 ```
 public/manifest.json
 ```
